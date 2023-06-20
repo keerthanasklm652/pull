@@ -1,1 +1,2 @@
 by using pull remote repository changes will be reflected on local repository.
+pulling the remote repository
